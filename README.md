@@ -1,1 +1,1 @@
-# Dissertation-Playing-Atari-Games-with-Deep-Reinforcement-Learning-
+# Dissertation: Playing Atari Games with Deep Reinforcement Learning
